@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="GBK">
+    <file url="file://$PROJECT_DIR$/src/com/lanqiaobeiTraining/train/SyracuseGuessCP.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/lanqiaobeiTraining/train/Test.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/lanqiaobeiTraining/train/TimeTrans.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/lanqiaobeiTraining/week2/Daffodil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/lanqiaobeiTraining/week2/Hanxin.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/lanqiaobeiTraining/week2/MultipleSum.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/lanqiaobeiTraining/week2/SubSequence.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/lanqiaobeiTraining/week2/ThreeTimesNPlusOne.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/learning/collection/DemoCollectionMethod.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/learning/collection/DemoIterator.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/learning/collection/DemoTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/learning/list/DemoList.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/learning/list/DemoListMethod.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/learning/list/DemoListVisit.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/learning/list/DemoSort.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/learning/list/DemoTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/finalExamination/Adog.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/finalExamination/AdogClass.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/finalExamination/CmoneyBuyChicken.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/finalExamination/Coin.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/finalExamination/EseriesSum.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/finalExamination/Fexchange.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/finalExamination/IcylinderClass.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/finalExamination/JcalcGCD.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/finalExamination/Ksphere.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/finalExamination/McalcXianling.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/finalExamination/NcalcAnimal.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/finalExamination/Oball.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/practice/Composing.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/practice/DivisionSum.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/practice/RunApp.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/practice/start/CalcAverage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/practice/start/GetRandomNumber.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>

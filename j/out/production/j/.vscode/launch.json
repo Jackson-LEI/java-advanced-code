@@ -1,0 +1,658 @@
+{
+  // 使用 IntelliSense 了解相关属性。
+  // 悬停以查看现有属性的描述。
+  // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch XiongJianZhu",
+      "request": "launch",
+      "mainClass": "classTeaching.XiongJianZhu",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch Draw",
+      "request": "launch",
+      "mainClass": "classTeaching.Draw",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch Book",
+      "request": "launch",
+      "mainClass": "com.lanqiaobeiTraining.train.Book",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch RankingSystem",
+      "request": "launch",
+      "mainClass": "practice.RankingSystem",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch ReadingRoom",
+      "request": "launch",
+      "mainClass": "practice.ReadingRoom",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch Like",
+      "request": "launch",
+      "mainClass": "practice.Like",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch IdNumberUpdate",
+      "request": "launch",
+      "mainClass": "com.lanqiaobeiTraining.train.IdNumberUpdate",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch Letter",
+      "request": "launch",
+      "mainClass": "com.lanqiaobeiTraining.train.Letter",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch GodMadeQuestion",
+      "request": "launch",
+      "mainClass": "com.lanqiaobeiTraining.train.GodMadeQuestion",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch BigDecimalDemo",
+      "request": "launch",
+      "mainClass": "com.lanqiaobeiTraining.train.BigDecimalDemo",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch BiggestAndSmallest",
+      "request": "launch",
+      "mainClass": "com.lanqiaobeiTraining.train.BiggestAndSmallest",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch CalcExponent",
+      "request": "launch",
+      "mainClass": "com.lanqiaobeiTraining.train.CalcExponent",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch Compare",
+      "request": "launch",
+      "mainClass": "com.lanqiaobeiTraining.train.Compare",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch DivisorSum",
+      "request": "launch",
+      "mainClass": "com.lanqiaobeiTraining.train.DivisorSum",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch PhyCycle",
+      "request": "launch",
+      "mainClass": "com.lanqiaobeiTraining.train.PhyCycle",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch PrintPicture",
+      "request": "launch",
+      "mainClass": "com.lanqiaobeiTraining.train.PrintPicture",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch SyracuseGuess",
+      "request": "launch",
+      "mainClass": "com.lanqiaobeiTraining.train.SyracuseGuess",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch SyracuseGuessCP",
+      "request": "launch",
+      "mainClass": "com.lanqiaobeiTraining.train.SyracuseGuessCP",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch TEST",
+      "request": "launch",
+      "mainClass": "com.lanqiaobeiTraining.train.TEST",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch TimeTrans",
+      "request": "launch",
+      "mainClass": "com.lanqiaobeiTraining.train.TimeTrans",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch TwoDimensionFunc",
+      "request": "launch",
+      "mainClass": "com.lanqiaobeiTraining.train.TwoDimensionFunc",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch WhichDay",
+      "request": "launch",
+      "mainClass": "com.lanqiaobeiTraining.train.WhichDay",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch k",
+      "request": "launch",
+      "mainClass": "com.lanqiaobeiTraining.train.k",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch AandB",
+      "request": "launch",
+      "mainClass": "com.lanqiaobeiTraining.week1.AandB",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch CircleArea",
+      "request": "launch",
+      "mainClass": "com.lanqiaobeiTraining.week1.CircleArea",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch Fiboonaci",
+      "request": "launch",
+      "mainClass": "com.lanqiaobeiTraining.week1.Fiboonaci",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch SeriesSum",
+      "request": "launch",
+      "mainClass": "com.lanqiaobeiTraining.week1.SeriesSum",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch Daffodil",
+      "request": "launch",
+      "mainClass": "com.lanqiaobeiTraining.week2.Daffodil",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch Hanxin",
+      "request": "launch",
+      "mainClass": "com.lanqiaobeiTraining.week2.Hanxin",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch MultipleSum",
+      "request": "launch",
+      "mainClass": "com.lanqiaobeiTraining.week2.MultipleSum",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch SubSequence",
+      "request": "launch",
+      "mainClass": "com.lanqiaobeiTraining.week2.SubSequence",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch ThreeTimesNPlusOne",
+      "request": "launch",
+      "mainClass": "com.lanqiaobeiTraining.week2.ThreeTimesNPlusOne",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch EatFish",
+      "request": "launch",
+      "mainClass": "com.lanqiaobeiTraining.week3.EatFish",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch DemoCollectionMethod",
+      "request": "launch",
+      "mainClass": "com.learning.collection.DemoCollectionMethod",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch DemoIterator",
+      "request": "launch",
+      "mainClass": "com.learning.collection.DemoIterator",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch DemoTest",
+      "request": "launch",
+      "mainClass": "com.learning.collection.DemoTest",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch DemoList",
+      "request": "launch",
+      "mainClass": "com.learning.list.DemoList",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch DemoListMethod",
+      "request": "launch",
+      "mainClass": "com.learning.list.DemoListMethod",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch DemoListVisit",
+      "request": "launch",
+      "mainClass": "com.learning.list.DemoListVisit",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch DemoSort",
+      "request": "launch",
+      "mainClass": "com.learning.list.DemoSort",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch DemoTest(1)",
+      "request": "launch",
+      "mainClass": "com.learning.list.DemoTest",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch AdogClass",
+      "request": "launch",
+      "mainClass": "finalExamination.AdogClass",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch Bwhile",
+      "request": "launch",
+      "mainClass": "finalExamination.Bwhile",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch CmoneyBuyChicken",
+      "request": "launch",
+      "mainClass": "finalExamination.CmoneyBuyChicken",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch Coin",
+      "request": "launch",
+      "mainClass": "finalExamination.Coin",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch DifElse",
+      "request": "launch",
+      "mainClass": "finalExamination.DifElse",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch EseriesSum",
+      "request": "launch",
+      "mainClass": "finalExamination.EseriesSum",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch Fexchange",
+      "request": "launch",
+      "mainClass": "finalExamination.Fexchange",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch GprintNumber",
+      "request": "launch",
+      "mainClass": "finalExamination.GprintNumber",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch IcylinderClass",
+      "request": "launch",
+      "mainClass": "finalExamination.IcylinderClass",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch JcalcGCD",
+      "request": "launch",
+      "mainClass": "finalExamination.JcalcGCD",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch KsphereClass",
+      "request": "launch",
+      "mainClass": "finalExamination.KsphereClass",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch LfibonacciSequence",
+      "request": "launch",
+      "mainClass": "finalExamination.LfibonacciSequence",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch McalcXianling",
+      "request": "launch",
+      "mainClass": "finalExamination.McalcXianling",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch NcalcAnimal",
+      "request": "launch",
+      "mainClass": "finalExamination.NcalcAnimal",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch Oball",
+      "request": "launch",
+      "mainClass": "finalExamination.Oball",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch APlusB",
+      "request": "launch",
+      "mainClass": "practice.APlusB",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch AminusB",
+      "request": "launch",
+      "mainClass": "practice.AminusB",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch Become2",
+      "request": "launch",
+      "mainClass": "practice.Become2",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch BigBen",
+      "request": "launch",
+      "mainClass": "practice.BigBen",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch CalcFactorial",
+      "request": "launch",
+      "mainClass": "practice.CalcFactorial",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch DivisionSum",
+      "request": "launch",
+      "mainClass": "practice.DivisionSum",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch IdentifyId",
+      "request": "launch",
+      "mainClass": "practice.IdentifyId",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch IntSum",
+      "request": "launch",
+      "mainClass": "practice.IntSum",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch Lcm",
+      "request": "launch",
+      "mainClass": "practice.Lcm",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch OutputGPLT",
+      "request": "launch",
+      "mainClass": "practice.OutputGPLT",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch ReadNumber",
+      "request": "launch",
+      "mainClass": "practice.ReadNumber",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch Rent",
+      "request": "launch",
+      "mainClass": "practice.Rent",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch RobotSaying",
+      "request": "launch",
+      "mainClass": "practice.RobotSaying",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch SeatNumber",
+      "request": "launch",
+      "mainClass": "practice.SeatNumber",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch StringAmimusB",
+      "request": "launch",
+      "mainClass": "practice.StringAmimusB",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch SumLetter",
+      "request": "launch",
+      "mainClass": "practice.SumLetter",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch TEST(1)",
+      "request": "launch",
+      "mainClass": "practice.TEST",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch TooHandsome",
+      "request": "launch",
+      "mainClass": "practice.TooHandsome",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch WhoDrunkFirst",
+      "request": "launch",
+      "mainClass": "practice.WhoDrunkFirst",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch Averager",
+      "request": "launch",
+      "mainClass": "practice.start.Averager",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch CalcAngle",
+      "request": "launch",
+      "mainClass": "practice.start.CalcAngle",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch CalcAsset",
+      "request": "launch",
+      "mainClass": "practice.start.CalcAsset",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch CalcAverage",
+      "request": "launch",
+      "mainClass": "practice.start.CalcAverage",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch CalcEvenSum",
+      "request": "launch",
+      "mainClass": "practice.start.CalcEvenSum",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch CalcHeight",
+      "request": "launch",
+      "mainClass": "practice.start.CalcHeight",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch CalcInterest",
+      "request": "launch",
+      "mainClass": "practice.start.CalcInterest",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch CalcMedal",
+      "request": "launch",
+      "mainClass": "practice.start.CalcMedal",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch CalcMultiply",
+      "request": "launch",
+      "mainClass": "practice.start.CalcMultiply",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch CalcNumber",
+      "request": "launch",
+      "mainClass": "practice.start.CalcNumber",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch GetRandomNumber",
+      "request": "launch",
+      "mainClass": "practice.start.GetRandomNumber",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch HighestMinusValue",
+      "request": "launch",
+      "mainClass": "practice.start.HighestMinusValue",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch HighestScore",
+      "request": "launch",
+      "mainClass": "practice.start.HighestScore",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch MoneyManagement",
+      "request": "launch",
+      "mainClass": "practice.start.MoneyManagement",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch SameNumber",
+      "request": "launch",
+      "mainClass": "practice.start.SameNumber",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch ScoreAnalysis",
+      "request": "launch",
+      "mainClass": "practice.start.ScoreAnalysis",
+      "projectName": "src_fa086756"
+    },
+    {
+      "type": "java",
+      "name": "Launch SumAndAverage",
+      "request": "launch",
+      "mainClass": "practice.start.SumAndAverage",
+      "projectName": "src_fa086756"
+    }
+  ]
+}
